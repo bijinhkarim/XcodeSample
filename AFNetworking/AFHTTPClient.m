@@ -61,6 +61,8 @@ typedef void (^AFNetworkReachabilityStatusBlock)(AFNetworkReachabilityStatus sta
 typedef id AFNetworkReachabilityRef;
 #endif
 
+
+
 typedef void (^AFCompletionBlock)(void);
 
 static NSUInteger const kAFHTTPClientDefaultMaxConcurrentOperationCount = 4;

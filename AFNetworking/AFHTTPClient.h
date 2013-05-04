@@ -24,7 +24,7 @@
 
 @class AFHTTPRequestOperation;
 @protocol AFHTTPClientOperation;
-@protocol AFMultipartFormData;
+@protocol AFMultipartFormData; 
 
 /**
  Posted when network reachability changes.
